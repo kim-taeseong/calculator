@@ -1,4 +1,9 @@
 class Calculator:
+    # 초기화
+    def __init__(self, number1, number2):
+        self.number1 = number1
+        self.number2 = number2
+
     # 덧셈
     # 이재준 더하기 함구 구현
     def add_cal(x,y):

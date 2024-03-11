@@ -4,7 +4,7 @@ class Calculator:
     # 뺄셈
     # 곱셈
     # 나눗셈
-    def division(a, b):
+    def divide(a, b):
         try:
             return a / b
         except ZeroDivisionError:

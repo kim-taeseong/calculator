@@ -7,7 +7,7 @@ class Calculator:
     # 덧셈
     # 이재준 더하기 함구 구현
     def add_cal(self):
-        return self.number1 + self.number1
+        return self.number1 + self.number2
 
     # 뺄셈
     def subtraction(self):

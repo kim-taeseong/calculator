@@ -1,4 +1,4 @@
-from .calculator import Calculator
+from .calculation import Calculator
 
 number1 = float(input('첫 번째 값을 입력하세요: '))
 number2 = float(input('두 번째 값을 입력하세요: '))

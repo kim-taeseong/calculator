@@ -1,24 +1,21 @@
-# test
+# 계산기 프로그램 협업
 
-# git push test
+## 덧셈
 
-- git이란?
+이재준 구현
 
-- dev 작업
+## 뺄셈
 
-- test 작업
+유지안 구현
 
-- dev 작업
+## 곱셈
 
-[네이버](www.naver.com)
+박신혁 구현
 
-_이탤릭_
+## 나눗셈
 
-이재준 더하기 함구 구현
-def add_cal(x,y):
-    return x + y
+김태성 구현
 
-x = float(input("첫 번째 값을 입력하세요: "))
-y = float(input("두 번째 값을 입력하세요: "))
+_calculator.py -> 계산기 클래스 구현_
 
-result = add_cal(x,y) print("두 값의 합은?:" result)
+_main.py -> 사용자의 입력을 받아 계산하는 프로그램 구현_
